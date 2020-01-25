@@ -1,0 +1,38 @@
+		
+body{
+	background-color:#7e7e82;
+	margin: 0;
+}
+		div{
+			background-color: #505050;
+			width: 900px;
+			margin-left: auto;
+			margin-right: auto;
+			margin-top: 100px;
+			margin-bottom: 100px;
+			padding: 50px;
+			color: white;
+			box-shadow: 0 2px 10px #434141;
+		}
+		h1{
+			font-size: 32px;
+			color: green;
+			font-style: all;
+
+		}
+		p{font-size: 30px;
+			text-align: justify;
+			line-height: 1.6
+
+		}
+		
+		span{
+			color:seagreen;
+
+		}
+		strong{
+			
+			font-size:60px;
+
+
+	
